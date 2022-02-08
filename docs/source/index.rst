@@ -14,7 +14,7 @@ Contents
 
 .. toctree::
 
-   Onboarding
+   onboarding
    Access
    Strategy 2022
    Security, Policies, Procedures
