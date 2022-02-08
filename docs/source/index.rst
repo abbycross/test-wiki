@@ -15,7 +15,7 @@ Contents
 .. toctree::
 
    onboarding
-   Access
-   Strategy 2022
-   Security, Policies, Procedures
-   IP pre-review
+   access
+   strategy
+   security
+   ip
