@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
-===================================
+Fake Grand Central
+==================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to your one-stop shop for everything you could possibly need!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`Onboarding` section if you are new.
 
 .. note::
 
-   This project is under active development.
+   Files can be created in either .rst or .md. I hope.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Onboarding
+   Access
+   Strategy 2022
+   Security, Policies, Procedures
+   IP pre-review
