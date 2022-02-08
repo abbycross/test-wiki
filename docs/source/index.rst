@@ -7,7 +7,7 @@ Check out the :doc:`onboarding` section if you are new.
 
 Play with links at :ref:`file`
 
-Can it find :ref:`Welcome to MkDocs`? Can it refer to it by name :ref:`<.\index.md>`
+Can it find :ref:`Welcome to MkDocs`? Can it refer to it by name :ref:`<index.md>`
 
 .. note::
 
