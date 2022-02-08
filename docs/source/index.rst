@@ -5,7 +5,7 @@ Welcome to your one-stop shop for everything you could possibly need!
 
 Check out the :doc:`Onboarding` section if you are new.
 
-Play with links at :ref:`Access a file created in md`
+Play with links at :ref:`file`
 
 .. note::
 
