@@ -23,4 +23,3 @@ Contents
    strategy
    security
    ip
-   index
